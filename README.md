@@ -39,13 +39,3 @@ cd gmm-segmentation
 chmod +x run.sh
 ./run.sh
 ```
-### 3. Requirements
-Make sure these dependencies are listed in your `requirements.txt`
-
-```text
-matplotlib
-opencv-python
-numpy
-scikit-learn
-scikit-image
-```
