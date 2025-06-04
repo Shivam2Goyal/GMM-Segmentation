@@ -19,9 +19,7 @@ This project implements image segmentation using **Gaussian Mixture Models (GMM)
 
 | Input Image | Output Image |
 |-------------|--------------|
-| ![Input](input/flower.jpeg) | ![Output](output/flower_output.png) |
-| ![Input](input/rabbit.jpeg) | ![Output](output/rabbit_output.png) |
-| ![Input](input/watermelon.jpeg) | ![Output](output/watermelon_output.png) |
+| ![Input](input/butter.jpeg) | ![Output](output/watermelon_output.png) |
 | ![Input](input/spider.jpeg) | ![Output](output/spider_output.png) |
 
 ---
