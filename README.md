@@ -11,7 +11,7 @@ This project implements image segmentation using **Gaussian Mixture Models (GMM)
 - Supports unsupervised learning without labeled data.
 - Employs **scikit-learn**, **OpenCV**, and **scikit-image** for processing and modeling.
 - Outputs a segmented version of the input image with distinct color-coded regions.
-- Achieves up to **0.917 Jaccard similarity coefficient** on test images.
+> Achieves up to **0.917 Jaccard similarity coefficient** on test images.
 
 ---
 
@@ -40,4 +40,14 @@ cd gmm-segmentation
 ```bash
 chmod +x run.sh
 ./run.sh
+```
+### 3. Requirements
+Make sure these dependencies are listed in your `requirements.txt`
+
+```text
+matplotlib
+opencv-python
+numpy
+scikit-learn
+scikit-image
 ```
